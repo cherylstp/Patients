@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ag-grid-angular": "^27.3.0",
+    "ag-grid-community": "^27.3.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^14.0.0"
+  }
+}
